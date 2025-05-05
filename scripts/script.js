@@ -224,7 +224,7 @@ function generateBlogPosts() {
         // Sample blog post data
         const blogPosts = [
             {
-                image: 'https://via.placeholder.com/400x250',
+                image: 'images/image-5.jpg',
                 imageAlt: 'JavaScript Development',
                 category: 'Web Development',
                 categorySlug: 'web-development',
@@ -235,7 +235,7 @@ function generateBlogPosts() {
                 slug: '10-javascript-tips'
             },
             {
-                image: 'https://via.placeholder.com/400x250',
+                image: 'images/image-7.jpg',
                 imageAlt: 'Machine Learning',
                 category: 'Artificial Intelligence',
                 categorySlug: 'artificial-intelligence',
@@ -246,7 +246,7 @@ function generateBlogPosts() {
                 slug: 'intro-to-machine-learning'
             },
             {
-                image: 'https://via.placeholder.com/400x250',
+                image: 'images/image-8.jpg',
                 imageAlt: 'Network Security',
                 category: 'Cybersecurity',
                 categorySlug: 'cybersecurity',
@@ -257,7 +257,7 @@ function generateBlogPosts() {
                 slug: 'network-security-threats'
             },
             {
-                image: 'https://via.placeholder.com/400x250',
+                image: 'images/image-2.jpg',
                 imageAlt: 'Data Visualization',
                 category: 'Data Science',
                 categorySlug: 'data-science',
@@ -268,7 +268,7 @@ function generateBlogPosts() {
                 slug: 'data-visualization-techniques'
             },
             {
-                image: 'https://via.placeholder.com/400x250',
+                image: 'images/image-3.jpg',
                 imageAlt: 'CSS Grid',
                 category: 'Web Development',
                 categorySlug: 'web-development',
@@ -279,7 +279,7 @@ function generateBlogPosts() {
                 slug: 'mastering-css-grid'
             },
             {
-                image: 'https://via.placeholder.com/400x250',
+                image: 'images/image-4.jpg',
                 imageAlt: 'Cloud Computing',
                 category: 'Web Development',
                 categorySlug: 'web-development',
